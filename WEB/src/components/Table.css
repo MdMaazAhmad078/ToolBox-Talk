@@ -1,0 +1,29 @@
+.status{ 
+    font-weight: 550;
+     width: 9.5rem;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.project-btn{
+    height: 3rem;
+}
+.mr-t-1rem{
+    margin-top: 1rem;
+}
+.exp-btn{
+    margin-right: 7rem;
+    float: right;
+}
+.f-r{
+    float: right;
+}
+.font-f{
+    font-family: 'open sans', sans-serif;
+    margin-left: 1rem;
+}
+@media screen and (min-width: 768px) {
+    .exp-btn{
+        margin-right: 38rem;
+    }
+}

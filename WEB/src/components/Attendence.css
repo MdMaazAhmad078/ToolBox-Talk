@@ -1,0 +1,26 @@
+.container-at{
+    margin-top:10px;
+}
+.title-at{
+    /* display:flex; */
+    /* justify-content: center; */
+    /* align-items:left; */
+    /* background:#3f51b5; */
+    color:#fff;
+    padding:10px;
+    font-size:25px;
+    font-weight: 600;
+    position: relative;
+    background-color: rgb(106, 133, 253);
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Martel Sans', sans-serif;
+    
+}
+/* .video{
+    height:50vh;
+} */
+.QrReader{
+    /* max-height: 70vh ; */
+    width:100%;
+    padding-top: 50vh;
+}

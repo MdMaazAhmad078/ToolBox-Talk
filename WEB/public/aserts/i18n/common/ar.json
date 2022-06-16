@@ -1,0 +1,22 @@
+{
+    "submit":"يُقدِّم",
+    "cancle":"إلغاء",
+    "toolboxtalk":"نقاش الأدوات",
+    "home":"مسكن",
+    "admin":"مسؤل",
+    "notification":"تنبيه",
+    "role":"دور",
+    "user":"المستعمل",
+    "setting":"ضبط",
+    "parameters":"المعلمات",
+    "viewincident":"مشاهدة الحادث",
+    "profile":"الملف الشخصي",
+    "logout":"تسجيل خروج", 
+    "startingDate":"تاريخ البدء",
+    "status":"حالة",
+    "incharge":"مسؤول عن",
+    "modifiedDate":"تاريخ معدل",
+    "modifiedBy":"تم تعديله بواسطة",
+    "createProject":"إنشاء مشروع",
+    "searchProject":"مشروع البحث"
+}

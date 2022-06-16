@@ -1,0 +1,22 @@
+{
+    "submit":"Submit",
+    "cancle":"Cancle",
+    "toolboxtalk":"TOOLBOX TALK",
+    "home":"Home",
+    "admin":"Admin",
+    "notification":"Notification",
+    "role":"Role",
+    "user":"User",
+    "setting":"Setting",
+    "parameters":"Parameters",
+    "viewincident":"View Incident",
+    "profile":"Profile ",
+    "logout":"LogOut ",
+    "startingDate":"Starting Date",
+    "status":"Status",
+    "incharge":"Incharge",
+    "modifiedDate":"Modified Date",
+    "modifiedBy":"Modified By",
+    "createProject":"Create Project",
+    "searchProject":"Search Project"
+}
