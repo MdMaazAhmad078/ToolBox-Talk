@@ -88,7 +88,7 @@ const LogIncident_Form = () => {
                                 <input type="submit" value="Submit" />
                             </div>
                             <div className='cancle'>
-                                <input type="button" value="Cancle" onClick={() => { history.push("/") }} />
+                                <input type="button" value="Cancle" onClick={() => { history.push("/Dashboard") }} />
                             </div>
                         </div>
 
